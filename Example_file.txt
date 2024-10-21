@@ -1,0 +1,9 @@
+Oc1ccc(-c2nc3ccc(O)cc3o2)cc1 CHEMBL187673
+Oc1ccc(-c2nc3cc(O)ccc3o2)cc1 CHEMBL187392
+Oc1ccc(-c2nc3cc(O)cc(Br)c3o2)cc1 CHEMBL188528
+Oc1cc(Br)c2oc(-c3ccc(O)c(F)c3)nc2c1 CHEMBL187207
+N#Cc1cc(O)cc2nc(-c3ccc(O)cc3)oc12 CHEMBL186513
+O=Cc1cc(O)cc2nc(-c3ccc(O)cc3)oc12 CHEMBL188230
+C=Cc1cc(O)cc2nc(-c3ccc(O)c(F)c3)oc12 CHEMBL450940
+Oc1ccc(-c2noc3cc(O)ccc23)cc1 CHEMBL188882
+CCC(=C(c1ccc(O)cc1)c1ccc(OCCN(C)C)cc1)c1ccccc1 CHEMBL2137046
