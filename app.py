@@ -86,7 +86,7 @@ elif page == "About":
 with st.sidebar.header('1. Upload your CSV data'):
     uploaded_file = st.sidebar.file_uploader("Upload your input file", type=['txt'])
     st.sidebar.markdown("""
-[Example input file]https://github.com/StephAT/FinalProject-Demo/blob/master/Example_file.txt
+[Example input file](https://github.com/StephAT/FinalProject-Demo/blob/master/Example_file.txt)
 """)
 
 if st.sidebar.button('Predict'):
