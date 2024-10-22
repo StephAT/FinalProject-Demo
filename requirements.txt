@@ -7,3 +7,4 @@ pickle
 referencing
 click
 scikit-learn
+pip
